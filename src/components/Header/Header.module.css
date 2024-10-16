@@ -1,0 +1,12 @@
+.header {
+  padding: 1.1em 0;
+  background-color: var(--black);
+}
+
+.header > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
